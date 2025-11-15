@@ -19,7 +19,7 @@ function App() {
     setCount(count-1);
   }
 
-  return (
+  <!-- return (
     <div style={{
       display:"flex",
       justifyContent:"center",
@@ -32,7 +32,7 @@ function App() {
 
     </div>
   )
-}
+} -->
 
 export default App
 
@@ -76,7 +76,7 @@ count decreases by 1
 
 The UI is a simple layout:
 
-<div style={{ display:"flex", justifyContent:"center", alignItems:"center", gap:"20px" }}>
+<!-- <div style={{ display:"flex", justifyContent:"center", alignItems:"center", gap:"20px" }}> -->
 
 
 Then:
